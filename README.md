@@ -18,7 +18,7 @@ You can do phase C before phase B if you are more interested in NLP. Section 8 n
 ---
 
 ## 1. Orientation and foundations (read first)
-1. [ ] **(core)** LeCun, Bengio, Hinton, 2015. Deep Learning (Nature)
+1. [x] **(core)** LeCun, Bengio, Hinton, 2015. Deep Learning (Nature)
 2. [ ] **(core)** Parr & Howard, 2018. The Matrix Calculus You Need For Deep Learning
 3. [ ] **(skim)** Baydin et al., 2018. Automatic Differentiation in Machine Learning: A Survey
 4. [ ] **(skim)** Halevy, Norvig, Pereira, 2009. The Unreasonable Effectiveness of Data
